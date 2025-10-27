@@ -1,0 +1,10 @@
+sqlalchemy==2.0
+psycopg2-binary==2.9.11
+pandas==2.3.3
+python-dotenv==1.1.1
+jupyter==1.1.1
+matplotlib==3.10.7
+seaborn==0.13.2
+numpy==2.3.0
+scipy==1.16
+streamlit==1.50
