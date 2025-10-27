@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 1.  Create the Database: Using your PostgreSQL tool, create a new database named riwi_sport_db (ensure it uses UTF-8 encoding).
 
-2.  Run the SQL Script: Execute the scripts/RiwiSport.sql script against the newly created riwi_sport database. This will create all necessary tables and populate them with seed data.
+2.  Run the SQL Script: Execute the scripts/RiwiSport.sql script against the newly created riwi_sport_db database. This will create all necessary tables and populate them with seed data.
 
 ### 4. Configure Environment Variables
 
